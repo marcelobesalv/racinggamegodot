@@ -1,0 +1,23 @@
+# Normalize line endings for all text-based files
+* text=auto eol=lf
+
+# Denote all files that are truly binary and should not be modified
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.wav binary
+*.ogg binary
+*.mp3 binary
+*.glb binary
+*.gltf binary
+*.obj binary
+*.mtl binary
+
+# Godot-specific file types
+*.import text eol=lf
+*.tscn text eol=lf
+*.tres text eol=lf
+*.gd text eol=lf
+*.shader text eol=lf

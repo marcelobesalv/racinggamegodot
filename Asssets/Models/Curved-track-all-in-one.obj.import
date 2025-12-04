@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Curved-track-all-in-one.obj-3fe7b4f1227021b8b9a9104abf083504.mesh"
+
+[deps]
+
+files=[ "res://.import/Curved-track-all-in-one.obj-3fe7b4f1227021b8b9a9104abf083504.mesh" ]
+
+source_file="res://Asssets/Models/Curved-track-all-in-one.obj"
+dest_files=[ "res://.import/Curved-track-all-in-one.obj-3fe7b4f1227021b8b9a9104abf083504.mesh", "res://.import/Curved-track-all-in-one.obj-3fe7b4f1227021b8b9a9104abf083504.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

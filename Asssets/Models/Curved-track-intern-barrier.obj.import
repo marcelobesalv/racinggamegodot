@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Curved-track-intern-barrier.obj-b679939ae3d6d47041c2c21d0c49206f.mesh"
+
+[deps]
+
+files=[ "res://.import/Curved-track-intern-barrier.obj-b679939ae3d6d47041c2c21d0c49206f.mesh" ]
+
+source_file="res://Asssets/Models/Curved-track-intern-barrier.obj"
+dest_files=[ "res://.import/Curved-track-intern-barrier.obj-b679939ae3d6d47041c2c21d0c49206f.mesh", "res://.import/Curved-track-intern-barrier.obj-b679939ae3d6d47041c2c21d0c49206f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286
