@@ -4,7 +4,7 @@ This is an old project from 2023 that I decided to upload to GitHub.
 
 🎮 **[Play in Browser](https://marcelobesalv.github.io/racinggamegodot/)** | 📥 [Download Windows Build](https://github.com/marcelobesalv/racinggamegodot/releases)
 
-> **⚠️ Note:** The web version may run slower due to browser limitations. For the best experience, download the Windows build from [Releases](https://github.com/marcelobesalv/racinggamegodot/releases).
+> **⚠️ Important:** Make sure **hardware acceleration is enabled** in your browser for smooth gameplay! The web version requires WebGL and performs best with GPU acceleration enabled.
 
 ## Project Info
 
